@@ -31,5 +31,5 @@
           time: '26:32',
           petsAllowed: true,
           organizer: 's',
-        },
-      ],
+        }
+      ]
