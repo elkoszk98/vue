@@ -1,37 +1,37 @@
 {
- "events": [
-        {
-          "id": 12321,
-          "category": "cat",
-          "tile": "tit",
-          "description": "desc",
-          "location": "place",
-          "date": "12-12-12",
-          "time": "06:12",
-          "petsAllowed": true,
-          "organizer": "s",
-        },
-        {
-          "id": 12321,
-          "category": "cat",
-          "tile": "tit",
-          "description": "desc",
-          "location": "place",
-          "date": "12-12-12",
-          "time": "06:12",
-          "petsAllowed": true,
-          "organizer": "s",
-        },
-        {
-          "id": 12321,
-          "category": "cat",
-          "tile": "tit",
-          "description": "desc",
-          "location": "place",
-          "date": "12-12-12",
-          "time": "06:12",
-          "petsAllowed": true,
-          "organizer": "s",
-        }
-      ]
+   "events":[
+      {
+         "id":12321,
+         "category":"cat",
+         "tile":"tit",
+         "description":"desc",
+         "location":"place",
+         "date":"12-12-12",
+         "time":"06:12",
+         "petsAllowed":true,
+         "organizer":"s"
+      },
+      {
+         "id":12321,
+         "category":"cat",
+         "tile":"tit",
+         "description":"desc",
+         "location":"place",
+         "date":"12-12-12",
+         "time":"06:12",
+         "petsAllowed":true,
+         "organizer":"s"
+      },
+      {
+         "id":12321,
+         "category":"cat",
+         "tile":"tit",
+         "description":"desc",
+         "location":"place",
+         "date":"12-12-12",
+         "time":"06:12",
+         "petsAllowed":true,
+         "organizer":"s"
+      }
+   ]
 }
